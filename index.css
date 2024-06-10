@@ -2,3 +2,7 @@ body {
   margin: 0;
   background-color: #dcf8f3;
 }
+
+.small-container div {
+  background-color: white;
+}
