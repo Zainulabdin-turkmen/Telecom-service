@@ -13,6 +13,7 @@ section {
 
 .small-container {
   display: flex;
+  flex-direction: column;
 }
 
 .small-container div {
