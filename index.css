@@ -12,6 +12,7 @@ section {
 }
 
 .small-container {
+  display: flex;
 }
 
 .small-container div {
