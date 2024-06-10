@@ -6,6 +6,7 @@ body {
 section {
   margin-top: 7.1rem;
   padding: 0 3rem;
+  display: flex;
 }
 
 .small-container div {
