@@ -7,6 +7,7 @@ section {
   margin-top: 7.1rem;
   padding: 0 3rem;
   display: flex;
+  flex-direction: column;
 }
 
 .small-container div {
