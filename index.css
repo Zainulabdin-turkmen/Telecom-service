@@ -18,7 +18,7 @@ p {
 }
 
 section {
-  /* margin: 7.1rem auto; */
+  margin: 7.1rem auto;
   padding: 0 3rem;
   display: flex;
   flex-direction: column;
