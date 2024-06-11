@@ -32,4 +32,5 @@ section {
 }
 
 .gift-container {
+  display: flex;
 }
