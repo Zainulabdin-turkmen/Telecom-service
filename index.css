@@ -33,4 +33,5 @@ section {
 
 .gift-container {
   display: flex;
+  gap: 1.1rem;
 }
