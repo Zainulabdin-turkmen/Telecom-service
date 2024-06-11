@@ -29,6 +29,7 @@ section {
 .call-container {
   display: flex;
   gap: 1.1rem;
+  margin-bottom: 1rem;
 }
 
 .record-container {
