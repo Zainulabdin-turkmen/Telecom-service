@@ -52,6 +52,6 @@ section {
 .gift-container-wrapper {
   display: flex;
   flex-direction: column;
-  /* gap: 1rem; */
+  gap: 1rem;
   padding: 1.8rem;
 }
