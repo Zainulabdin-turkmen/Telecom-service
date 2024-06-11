@@ -26,7 +26,7 @@ section {
   gap: 1.1rem;
 }
 
-.record {
+.record-container {
   display: flex;
   gap: 1.1rem;
 }
