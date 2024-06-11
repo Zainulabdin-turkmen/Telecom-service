@@ -28,4 +28,5 @@ section {
 
 .record {
   display: flex;
+  gap: 1.1rem;
 }
