@@ -17,11 +17,11 @@ section {
   gap: 1.5rem;
 }
 
+.small-container div {
+  background-color: white;
+}
+
 .call {
   display: flex;
   gap: 1.2rem;
-}
-
-.small-container div {
-  background-color: white;
 }
