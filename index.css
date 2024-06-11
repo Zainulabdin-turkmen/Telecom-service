@@ -3,6 +3,11 @@ body {
   background-color: #dcf8f3;
 }
 
+h1,
+p {
+  margin: 0;
+}
+
 section {
   margin-top: 7.1rem;
   padding: 0 3rem;
