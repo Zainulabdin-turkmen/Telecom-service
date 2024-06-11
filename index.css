@@ -21,7 +21,7 @@ section {
   background-color: white;
 }
 
-.call {
+.call-container {
   display: flex;
   gap: 1.1rem;
 }
