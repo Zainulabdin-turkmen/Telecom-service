@@ -27,4 +27,5 @@ section {
 }
 
 .record {
+  display: flex;
 }
