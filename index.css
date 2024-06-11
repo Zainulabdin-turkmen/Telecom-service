@@ -26,14 +26,9 @@ section {
   background-color: white;
 }
 
-.call-container {
-  display: flex;
-  gap: 1.1rem;
-  margin-bottom: 1rem;
-  align-items: center;
-}
-
-.record-container {
+.call-container,
+.record-container,
+.gift-container {
   display: flex;
   gap: 1.1rem;
   margin-bottom: 1rem;
@@ -42,13 +37,6 @@ section {
 
 .gift-container-wrapper {
   border: 1px solid #8ca5a0;
-}
-
-.gift-container {
-  display: flex;
-  gap: 1.1rem;
-  margin-bottom: 1rem;
-  align-items: center;
 }
 
 .small-container > div {
