@@ -64,6 +64,13 @@ section {
 
 @media screen and (min-width: 1200px) {
   section {
-    flex-direction: row;
+    /* flex-direction: row; */
+    flex: 1;
+  }
+  /* .gift-container-wrapper {
+    width: 50%;
+  } */
+  .small-container {
+    /* width: 50%; */
   }
 }
