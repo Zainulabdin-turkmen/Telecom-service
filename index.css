@@ -64,7 +64,7 @@ section {
 
 @media screen and (min-width: 1200px) {
   section {
-    /* flex-direction: row; */
+    flex-direction: row;
   }
   /* .gift-container-wrapper {
     width: 50%;
