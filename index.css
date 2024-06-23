@@ -66,9 +66,9 @@ section {
   section {
     flex-direction: row;
   }
-  /* .gift-container-wrapper {
-    width: 50%;
-  } */
+  .gift-container-wrapper {
+    /* width: 50%; */
+  }
   .small-container {
     /* width: 50%; */
   }
