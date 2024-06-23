@@ -63,4 +63,7 @@ section {
 }
 
 @media screen and (min-width: 1200px) {
+  section {
+    flex-direction: row;
+  }
 }
