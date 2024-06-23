@@ -59,6 +59,5 @@ section {
 @media only screen and (min-width: 834px) {
   section {
     display: flex;
-    background-color: aqua;
   }
 }
